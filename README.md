@@ -66,6 +66,18 @@ For recruiter verification, technical discussion, collaboration opportunities, o
 
 ---
 
+# Private Development Repository Preview
+
+The original production repository, backend deployment infrastructure, and complete development history remain private for security and intellectual property protection.
+
+Below are preview screenshots from the original private development repository used during active project development and deployment.
+
+<p align="center">
+  <img src="screencapture-github-adityagadge-dev-Cradle-Care-Smart-IoT-Baby-Monitoring-2026-05-18-14_24_18.png" width="100%" alt="Private Repository Preview" />
+</p>
+
+---
+
 # Key Features
 
 ## Smart Baby Monitoring
