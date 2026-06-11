@@ -3,7 +3,7 @@ Cradle Care – Smart IoT Baby Monitoring System
 </h1>
 
 <p align="center">
-  <img src="assets/images/icon 2.png" width="180" alt="Cradle Care Logo" />
+  <img src="assets/images/Icon_Main_Rounded.png" width="180" alt="Cradle Care Logo" />
 </p>
 
 <p align="center">
